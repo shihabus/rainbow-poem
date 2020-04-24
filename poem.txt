@@ -1,4 +1,4 @@
-The Rainbow and Unicorn
+The Rainbow and Unicorn with Cats
 
 Rainbows with 7 colors
 We call it VIBGYOR
@@ -17,6 +17,9 @@ Beautiful Earth
 Pony is good
 Pony is fast
 Pony is cute
+
+Cat Cat Cat
+Meow Meow Meow
 
 This is my poem by the way!!!
 
